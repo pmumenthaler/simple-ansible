@@ -1,0 +1,4 @@
+- name: install it all
+  hosts: localhost
+  roles:
+    - motd-facts
