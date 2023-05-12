@@ -1,3 +1,4 @@
 - name: run it
-   - roles:
+  hosts: all
+  roles:
        - motd-facts
