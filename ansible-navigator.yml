@@ -3,7 +3,7 @@ ansible-navigator:
   ansible:
     inventory:
       entries:
-      - /home/pmumenth/ansible-cicd/simple-ansible/hosts
+        - /home/pmumenth/ansible-cicd/simple-ansible/hosts
   execution-environment:
     container-engine: podman
     enabled: true

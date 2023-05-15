@@ -2,4 +2,4 @@
 - name: run it
   hosts: all
   roles:
-       - motd-facts
+       - motd_facts
